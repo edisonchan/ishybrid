@@ -68,7 +68,10 @@ if [ "$cpu_vendor" = "GenuineIntel" ]; then
     echo "This is not a hybrid CPU."
     echo "Core x$cpu_count: 0-$((cpu_count - 1))"
   fi
-else
+elif [ "$cpu_vendor" = "AuthenticAMD" ]; then
   echo "This is not a hybrid CPU."
+  echo "Core x$cpu_count: 0-$((cpu_count - 1))"
+else
+  echo "Unknown CPU vendor."
   echo "Core x$cpu_count: 0-$((cpu_count - 1))"
 fi
