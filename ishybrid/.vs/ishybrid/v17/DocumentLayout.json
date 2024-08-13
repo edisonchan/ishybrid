@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\git\\ishybrid\\ishybrid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B76D667-AA91-43B3-A86C-8C71452B9BFC}|ishybrid.vcxproj|G:\\git\\ishybrid\\ishybrid\\ishybrid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B76D667-AA91-43B3-A86C-8C71452B9BFC}|ishybrid.vcxproj|solutionrelative:ishybrid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ishybrid.c",
+              "DocumentMoniker": "G:\\git\\ishybrid\\ishybrid\\ishybrid.c",
+              "RelativeDocumentMoniker": "ishybrid.c",
+              "ToolTip": "G:\\git\\ishybrid\\ishybrid\\ishybrid.c",
+              "RelativeToolTip": "ishybrid.c",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-13T08:21:28.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
